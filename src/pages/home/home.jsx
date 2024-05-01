@@ -27,7 +27,7 @@ export default function HomePage() {
       {/* Верхняя часть страницы */}
       <div className={styles.header}>
         <h1 className={styles.title}>
-          Основы КОМПАС-3D {/* Компонент отображения прогресса с передачей стилей и значений */}
+          Создание 3D-моделей на основе использования Blender {/* Компонент отображения прогресса с передачей стилей и значений */}
           <SvgProgress
             extraClass={styles.progress}
             extraTrackClass={styles.progress__track}
