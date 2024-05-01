@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lanpotato/Blender-WEB/static/css/main.d879b361.css",
-    "main.js": "/lanpotato/Blender-WEB/static/js/main.e6a6f902.js",
+    "main.js": "/lanpotato/Blender-WEB/static/js/main.26ac18e4.js",
     "static/js/787.a3c4ac4e.chunk.js": "/lanpotato/Blender-WEB/static/js/787.a3c4ac4e.chunk.js",
     "static/media/Montserrat-BlackItalic.eot": "/lanpotato/Blender-WEB/static/media/Montserrat-BlackItalic.e885010b57eaa0bc6e3e.eot",
     "static/media/Montserrat-BlackItalic.ttf": "/lanpotato/Blender-WEB/static/media/Montserrat-BlackItalic.723da89da4f4081f6607.ttf",
@@ -89,11 +89,11 @@
     "static/media/module.svg": "/lanpotato/Blender-WEB/static/media/module.c3f875406b6c8847cd2113bd9ce4335a.svg",
     "static/media/home.svg": "/lanpotato/Blender-WEB/static/media/home.0011b7f51ce0fb4a1c89f5a857b88f1b.svg",
     "main.d879b361.css.map": "/lanpotato/Blender-WEB/static/css/main.d879b361.css.map",
-    "main.e6a6f902.js.map": "/lanpotato/Blender-WEB/static/js/main.e6a6f902.js.map",
+    "main.26ac18e4.js.map": "/lanpotato/Blender-WEB/static/js/main.26ac18e4.js.map",
     "787.a3c4ac4e.chunk.js.map": "/lanpotato/Blender-WEB/static/js/787.a3c4ac4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d879b361.css",
-    "static/js/main.e6a6f902.js"
+    "static/js/main.26ac18e4.js"
   ]
 }
